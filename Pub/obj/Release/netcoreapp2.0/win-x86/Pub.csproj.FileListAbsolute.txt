@@ -1,0 +1,13 @@
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\win-x86\hostpolicy.dll
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\win-x86\hostfxr.dll
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\win-x86\Pub.exe
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\win-x86\Pub.deps.json
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\win-x86\Pub.runtimeconfig.json
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\win-x86\Pub.runtimeconfig.dev.json
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\win-x86\Pub.dll
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\win-x86\Pub.pdb
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\obj\Release\netcoreapp2.0\win-x86\Pub.csprojAssemblyReference.cache
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\obj\Release\netcoreapp2.0\win-x86\Pub.AssemblyInfoInputs.cache
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\obj\Release\netcoreapp2.0\win-x86\Pub.AssemblyInfo.cs
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\obj\Release\netcoreapp2.0\win-x86\Pub.dll
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\obj\Release\netcoreapp2.0\win-x86\Pub.pdb

@@ -1,0 +1,10 @@
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\Pub.deps.json
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\Pub.runtimeconfig.json
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\Pub.runtimeconfig.dev.json
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\Pub.dll
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\bin\Release\netcoreapp2.0\Pub.pdb
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\obj\Release\netcoreapp2.0\Pub.csprojAssemblyReference.cache
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\obj\Release\netcoreapp2.0\Pub.AssemblyInfoInputs.cache
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\obj\Release\netcoreapp2.0\Pub.AssemblyInfo.cs
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\obj\Release\netcoreapp2.0\Pub.dll
+D:\personal\projects\DotNetCore.Redis.SubAndPub\Pub\obj\Release\netcoreapp2.0\Pub.pdb
